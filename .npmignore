@@ -1,0 +1,9 @@
+package-lock.json
+.gitattributes
+.gitignore
+yarn-error.json
+tsconfig.json
+src/
+coverage/
+*.test.ts*
+*.test.js
